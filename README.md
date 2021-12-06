@@ -1,2 +1,2 @@
-# mynikaaproject
- https://mohammed-sabeel.github.io/mynikaaproject/
+# mynikaa-project
+ https://mohammed-sabeel.github.io/mynikaa-project/
